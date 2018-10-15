@@ -1,1 +1,1 @@
-# learingsdwokdoapwkdoaksdopkapowkkpo
+worker: node bot.js
